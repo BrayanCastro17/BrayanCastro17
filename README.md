@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://linktr.ee/BrayanCastroCR" target="_blank">
+  <a href="https://linktr.ee/BrayanCastro" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
   </a>
   <a href="https://www.paypal.com/paypalme/brayancastro17" target="_blank">
